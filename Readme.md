@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Елена Тишкина](https://up.htmlacademy.ru/htmlcss/17/user/2282).
+* Студент: [Елена Тишкина](https://up.htmlacademy.ru/htmlcss/18/user/2282).
 
 ---
 
@@ -19,17 +19,17 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 [Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2282-barbershop) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391800/6077bf90-bdfb-11e5-88e1-7589f1d4bcc7.jpg">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037894-3cff89c2-7bae-11e7-8bae-a640a044bb03.jpg">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391804/6d683b76-bdfb-11e5-87fa-35a0aa855e1c.jpg">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037896-3dcef054-7bae-11e7-9857-babded766668.jpg">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку с иконкой компьютера и стрелкой, чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
+Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391902/17d49924-bdfc-11e5-8864-05fbcbddbb90.jpg">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037898-3f01b510-7bae-11e7-98fb-2bbba7236053.jpg">
 
 Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
 
